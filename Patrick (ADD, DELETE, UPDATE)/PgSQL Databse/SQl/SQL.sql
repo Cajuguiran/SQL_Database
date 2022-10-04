@@ -1,0 +1,2 @@
+INSERT INTO tblmembersinfo (studno, studlastname, studefirstname, studmiddle, studaddress, studgender, studcontact, studcourse)
+VALUES (011, 'Luffy', 'Monkey', 'D', 'Brgy.One Piece', 'Male', '09123456789', 'BSCRIM' )
